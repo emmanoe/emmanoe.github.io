@@ -1,0 +1,22 @@
+.blog_title{
+    text-align: center;
+}
+
+.bank_cards {
+    width: 10%;
+    height: 10%;
+}
+
+.col-1-4 {
+    width: 10%;
+    display: inline-block; 
+}
+
+img{
+    max-width:100%;
+  }
+
+canvas{
+    border: 1px solid;
+    width: 100%;
+}
